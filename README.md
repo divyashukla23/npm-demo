@@ -1,4 +1,4 @@
-# 🚀 Node.js + npm Project Demo (Beginner Friendly)
+# 🚀 Node.js + npm Project Demo
 
 This guide will help you create, install dependencies, run, and build a simple JavaScript application using **npm**.
 
